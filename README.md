@@ -1,4 +1,3 @@
-tomcat
-======
+The OpenShift `diy` cartridge documentation can be found at:
 
-tomcat 7.0.56
+http://openshift.github.io/documentation/oo_cartridge_guide.html#diy
